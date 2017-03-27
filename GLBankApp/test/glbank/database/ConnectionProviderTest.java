@@ -79,7 +79,7 @@ public class ConnectionProviderTest {
     }
 
     /**
-     * Test of getEmployeeId method, of class ConnectionProvider.
+     * Test of getEmployeeId method, of class ConnectionProvider..
      */
     @Test
     public void testGetEmployeeId() {
